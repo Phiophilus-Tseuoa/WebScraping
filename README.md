@@ -1,2 +1,2 @@
 # WebScraping
-Data analysis projects with webscraping
+Data analysis projects with WebScraping
